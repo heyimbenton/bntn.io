@@ -1,0 +1,4 @@
+Disallow: /index.html
+
+Sitemap: http://bntn.io/sitemap.xml
+
