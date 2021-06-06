@@ -344,6 +344,7 @@ a {
 }
 
 .nav-link.w--current {
+  color: #b6b1a7;
   font-style: italic;
   text-decoration: underline;
 }
