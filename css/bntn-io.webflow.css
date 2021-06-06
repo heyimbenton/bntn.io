@@ -1704,6 +1704,10 @@ a {
     background-color: transparent;
     color: #fff;
   }
+
+  .image-8 {
+    border-top: 1px solid #b6b1a7;
+  }
 }
 
 @media screen and (max-width: 767px) {
