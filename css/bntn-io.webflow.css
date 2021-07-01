@@ -340,10 +340,13 @@ a {
 
 .nav-link:hover {
   font-style: italic;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .nav-link.w--current {
+  -webkit-transform: rotate(-6deg);
+  -ms-transform: rotate(-6deg);
+  transform: rotate(-6deg);
   color: #b6b1a7;
   font-style: italic;
   text-decoration: underline;
@@ -628,7 +631,7 @@ a {
 
 .div-block-4 {
   border-bottom: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic13.jpg');
+  background-image: url('../images/gracue-7.jpg');
   background-position: 65% 50%;
   background-size: cover;
 }
@@ -675,7 +678,7 @@ a {
 .div-block-10 {
   border-bottom: 1px solid #b6b1a7;
   border-left: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic5.jpg');
+  background-image: url('../images/websitepic13.jpg');
   background-position: 50% 100%;
   background-size: cover;
 }
