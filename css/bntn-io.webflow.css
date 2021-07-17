@@ -260,7 +260,7 @@ a {
   flex: 0 auto;
   border-top: 1px solid #b6b1a7;
   border-bottom: 1px solid #b6b1a7;
-  background-color: #354325;
+  background-color: transparent;
   font-family: dico-slab, sans-serif;
   color: #b6b1a7;
   font-size: 24px;
