@@ -1248,6 +1248,10 @@ a {
   display: block;
 }
 
+.body-5 {
+  background-color: #354325;
+}
+
 @media screen and (min-width: 1920px) {
   .portrait-wrapper {
     background-image: url('../images/marketbanner-2.jpg');
