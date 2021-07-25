@@ -260,7 +260,7 @@ a {
   flex: 0 auto;
   border-top: 1px solid #b6b1a7;
   border-bottom: 1px solid #b6b1a7;
-  background-color: transparent;
+  background-color: #354325;
   font-family: dico-slab, sans-serif;
   color: #b6b1a7;
   font-size: 24px;
@@ -1850,6 +1850,10 @@ a {
 
   .div-block-4 {
     background-position: 50% 50%;
+  }
+
+  .div-block-9 {
+    background-position: 50% 0%;
   }
 
   .div-block-19 {
