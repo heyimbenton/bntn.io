@@ -464,8 +464,8 @@ a {
 .text-block-5 {
   font-family: dico-slab, sans-serif;
   color: #b6b1a7;
-  font-size: 30px;
-  line-height: 42px;
+  font-size: 26px;
+  line-height: 34px;
 }
 
 .image-3 {
@@ -1254,6 +1254,14 @@ a {
 
 .link-11 {
   color: #b6b1a7;
+  text-decoration: none;
+}
+
+.heading-3 {
+  font-family: dico-slab, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
   text-decoration: none;
 }
 
