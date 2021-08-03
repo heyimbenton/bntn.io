@@ -35,7 +35,7 @@ a {
 }
 
 .heading {
-  font-family: Helveticaneue, sans-serif;
+  font-family: dico-slab, sans-serif;
   font-size: 8vw;
   font-weight: 300;
 }
@@ -464,7 +464,7 @@ a {
 .text-block-5 {
   font-family: dico-slab, sans-serif;
   color: #b6b1a7;
-  font-size: 32px;
+  font-size: 26px;
   line-height: 42px;
 }
 
