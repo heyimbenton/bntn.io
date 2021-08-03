@@ -1252,6 +1252,11 @@ a {
   background-color: #354325;
 }
 
+.link-11 {
+  color: #b6b1a7;
+  text-decoration: none;
+}
+
 @media screen and (min-width: 1920px) {
   .portrait-wrapper {
     background-image: url('../images/marketbanner-2.jpg');
