@@ -464,7 +464,7 @@ a {
 .text-block-5 {
   font-family: dico-slab, sans-serif;
   color: #b6b1a7;
-  font-size: 26px;
+  font-size: 30px;
   line-height: 42px;
 }
 
@@ -1263,9 +1263,17 @@ a {
     border-top: 1px solid #fff;
   }
 
+  .text-small {
+    font-size: 24px;
+  }
+
   .text-block-5 {
     font-size: 40px;
-    line-height: 50px;
+    line-height: 55px;
+  }
+
+  .image-4 {
+    font-size: 24px;
   }
 
   .image-5 {
@@ -1284,6 +1292,10 @@ a {
 
   .link-2 {
     color: #fff;
+  }
+
+  .link-3 {
+    font-size: 24px;
   }
 }
 
