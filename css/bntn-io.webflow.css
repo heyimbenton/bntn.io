@@ -679,7 +679,7 @@ a {
   border-bottom: 1px solid #b6b1a7;
   border-left: 1px solid #b6b1a7;
   background-image: url('../images/websitepic13.jpg');
-  background-position: 50% 100%;
+  background-position: 50% 50%;
   background-size: cover;
 }
 
@@ -702,7 +702,7 @@ a {
 .div-block-13 {
   border-bottom: 1px solid #b6b1a7;
   background-image: url('../images/websitepic17.jpg');
-  background-position: 50% 100%;
+  background-position: 50% 50%;
   background-size: cover;
 }
 
@@ -1266,6 +1266,11 @@ a {
   text-decoration: none;
 }
 
+.link-12 {
+  color: #b6b1a7;
+  text-decoration: underline;
+}
+
 @media screen and (min-width: 1920px) {
   .portrait-wrapper {
     background-image: url('../images/marketbanner-2.jpg');
@@ -1282,8 +1287,8 @@ a {
   }
 
   .text-block-5 {
-    font-size: 40px;
-    line-height: 55px;
+    font-size: 36px;
+    line-height: 44px;
   }
 
   .image-4 {
@@ -1310,6 +1315,11 @@ a {
 
   .link-3 {
     font-size: 24px;
+  }
+
+  .heading-3 {
+    font-size: 45px;
+    line-height: 50px;
   }
 }
 
@@ -1879,7 +1889,11 @@ a {
   }
 
   .div-block-9 {
-    background-position: 50% 0%;
+    background-position: 50% 50%;
+  }
+
+  .div-block-10 {
+    background-position: 50% 50%;
   }
 
   .div-block-19 {
