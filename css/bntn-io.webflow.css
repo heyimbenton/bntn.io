@@ -639,7 +639,7 @@ a {
 .div-block-5 {
   border-right: 1px solid #b6b1a7;
   border-bottom: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic16.jpg');
+  background-image: url('../images/website.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: repeat;
@@ -647,7 +647,7 @@ a {
 
 .div-block-6 {
   border-bottom: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic7.jpg');
+  background-image: url('../images/lindsay-14.jpg');
   background-position: 50% 45%;
   background-size: cover;
 }
@@ -655,14 +655,14 @@ a {
 .div-block-7 {
   border-bottom: 1px solid #b6b1a7;
   border-left: 1px solid #b6b1a7;
-  background-image: url('../images/IMG_8878.jpg');
+  background-image: url('../images/websitepic13.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .div-block-8 {
   border-bottom: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic6.JPG');
+  background-image: url('../images/gracue-16.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -670,22 +670,22 @@ a {
 .div-block-9 {
   border-right: 1px none #b6b1a7;
   border-bottom: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic20.jpg');
-  background-position: 50% 50%;
+  background-image: url('../images/singerschristmas1.jpg');
+  background-position: 50% 100%;
   background-size: cover;
 }
 
 .div-block-10 {
   border-bottom: 1px solid #b6b1a7;
   border-left: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic13.jpg');
+  background-image: url('../images/Website-19.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .div-block-11 {
   border-left: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic3.jpg');
+  background-image: url('../images/websitepic22.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -694,7 +694,7 @@ a {
   border-right: 1px none #b6b1a7;
   border-bottom: 1px solid #b6b1a7;
   border-left: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic19.jpg');
+  background-image: url('../images/IMG_8878.jpg');
   background-position: 50% 100%;
   background-size: cover;
 }
@@ -709,7 +709,7 @@ a {
 .div-block-14 {
   border-bottom: 1px solid #b6b1a7;
   border-left: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic11.jpg');
+  background-image: url('../images/singerschristmas9.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -722,7 +722,7 @@ a {
 
 .div-block-16 {
   border-left: 1px solid #b6b1a7;
-  background-image: url('../images/market10.jpg');
+  background-image: url('../images/business.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -730,15 +730,15 @@ a {
 .div-block-17 {
   border-bottom: 1px solid #b6b1a7;
   border-left: 1px solid #b6b1a7;
-  background-image: url('../images/Website-19.jpg');
-  background-position: 50% 100%;
+  background-image: url('../images/websitepic16.jpg');
+  background-position: 50% 50%;
   background-size: cover;
 }
 
 .div-block-18 {
   border-bottom: 1px solid #b6b1a7;
   border-left: 1px solid #b6b1a7;
-  background-image: url('../images/websitepic10.jpg');
+  background-image: url('../images/websitepic7.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1271,6 +1271,11 @@ a {
   text-decoration: underline;
 }
 
+.link-13 {
+  color: #b6b1a7;
+  text-decoration: underline;
+}
+
 @media screen and (min-width: 1920px) {
   .portrait-wrapper {
     background-image: url('../images/marketbanner-2.jpg');
@@ -1619,7 +1624,7 @@ a {
   .div-block-9 {
     border-right-style: none;
     border-bottom-style: solid;
-    background-position: 0% 50%;
+    background-position: 50% 50%;
   }
 
   .div-block-10 {
@@ -1776,7 +1781,7 @@ a {
   }
 
   .div-block-9 {
-    background-position: 50% 100%;
+    background-position: 50% 50%;
   }
 
   .div-block-10 {
@@ -1889,7 +1894,7 @@ a {
   }
 
   .div-block-9 {
-    background-position: 50% 50%;
+    background-position: 50% 100%;
   }
 
   .div-block-10 {
