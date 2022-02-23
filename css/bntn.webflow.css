@@ -452,15 +452,16 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-top: 1px solid #b4875e;
-  border-bottom: 1px solid #b4875e;
+  border-bottom: 1px none #b4875e;
   background-color: #354325;
   font-family: dico-slab;
 }
 
 .text-small {
-  font-family: 'Museo slab 100', sans-serif;
+  font-family: museo-slab, sans-serif;
   font-size: 18px;
   line-height: 28px;
+  font-weight: 500;
   text-align: center;
 }
 
@@ -1188,9 +1189,10 @@ a {
 }
 
 .link-3 {
-  font-family: 'Museo slab 100', sans-serif;
+  font-family: museo-slab, sans-serif;
   color: #b4875e;
   font-size: 18px;
+  font-weight: 500;
   text-decoration: underline;
 }
 
@@ -1360,7 +1362,7 @@ a {
 
   .padded-content {
     background-color: #354325;
-    color: #354325;
+    color: #b4875e;
   }
 
   .text-block-5 {
@@ -1398,6 +1400,10 @@ a {
 
   .heading-2.home-header {
     position: static;
+    color: #b4875e;
+  }
+
+  .text-block-14 {
     color: #b4875e;
   }
 
@@ -1530,6 +1536,7 @@ a {
 
   .padded-content {
     border-bottom: 1px none #fff;
+    background-color: #354325;
   }
 
   .nav-mobile {
