@@ -458,10 +458,9 @@ a {
 }
 
 .text-small {
-  font-family: museo-slab, sans-serif;
+  font-family: 'Museo slab 100', sans-serif;
   font-size: 18px;
   line-height: 28px;
-  font-weight: 500;
   text-align: center;
 }
 
@@ -909,6 +908,7 @@ a {
 
 .heading-2.home-header {
   position: static;
+  line-height: 64px;
 }
 
 .div-block-21 {
@@ -1157,6 +1157,7 @@ a {
   color: #b4875e;
   font-size: 24px;
   line-height: 36px;
+  font-weight: 500;
 }
 
 .link {
@@ -1189,10 +1190,9 @@ a {
 }
 
 .link-3 {
-  font-family: museo-slab, sans-serif;
+  font-family: 'Museo slab 100', sans-serif;
   color: #b4875e;
   font-size: 18px;
-  font-weight: 500;
   text-decoration: underline;
 }
 
@@ -1362,7 +1362,7 @@ a {
 
   .padded-content {
     background-color: #354325;
-    color: #b4875e;
+    color: #354325;
   }
 
   .text-block-5 {
@@ -1400,10 +1400,6 @@ a {
 
   .heading-2.home-header {
     position: static;
-    color: #b4875e;
-  }
-
-  .text-block-14 {
     color: #b4875e;
   }
 
