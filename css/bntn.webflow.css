@@ -1309,6 +1309,11 @@ a {
   text-decoration: underline;
 }
 
+.link-14 {
+  color: #b4875e;
+  text-decoration: underline;
+}
+
 @media screen and (min-width: 1920px) {
   .heading {
     font-family: museo-slab, sans-serif;
