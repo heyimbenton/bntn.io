@@ -633,6 +633,7 @@ a {
 }
 
 .div-block-2 {
+  border-top: 1px solid #b4875e;
   border-right: 1px solid #b4875e;
   border-bottom: 1px solid #b4875e;
   background-image: url('../images/websitepic23.jpg');
@@ -641,6 +642,7 @@ a {
 }
 
 .div-block-3 {
+  border-top: 1px solid #b4875e;
   border-bottom: 1px solid #b4875e;
   border-left: 1px solid #b4875e;
   background-image: url('../images/websitepic15.jpg');
@@ -649,6 +651,7 @@ a {
 }
 
 .div-block-4 {
+  border-top: 1px solid #b4875e;
   border-bottom: 1px solid #b4875e;
   background-image: url('../images/gracue-7.jpg');
   background-position: 65% 50%;
