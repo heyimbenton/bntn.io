@@ -11,7 +11,7 @@
 }
 
 body {
-  font-family: 'Museo slab 100', sans-serif;
+  font-family: 'Museo slab 100';
   font-size: 14px;
   line-height: 20px;
 }
@@ -23,13 +23,13 @@ a {
 
 .body {
   background-color: #354325;
-  font-family: 'Museo slab 100', sans-serif;
+  font-family: 'Museo slab 100';
   color: #b4875e;
 }
 
 .section {
   padding: 40px;
-  font-family: Helveticaneue, sans-serif;
+  font-family: Helveticaneue;
   color: #fff;
   font-size: 30px;
   font-weight: 300;
@@ -130,7 +130,7 @@ a {
   border-style: none;
   border-width: 1px;
   border-color: #b4875e;
-  font-family: 'Museo slab 100', sans-serif;
+  font-family: 'Museo slab 100';
   color: #b4875e;
 }
 
@@ -199,7 +199,7 @@ a {
   outline-offset: 0px;
   outline-style: none;
   outline-width: 3px;
-  font-family: Helveticaneue, sans-serif;
+  font-family: Helveticaneue;
   color: #354325;
   text-align: left;
 }
@@ -415,7 +415,7 @@ a {
   -ms-flex: 1;
   flex: 1;
   background-color: #354325;
-  font-family: 'Museo slab 100', sans-serif;
+  font-family: 'Museo slab 100';
   font-size: 36px;
   line-height: 36px;
   font-weight: 300;
@@ -458,9 +458,10 @@ a {
 }
 
 .text-small {
-  font-family: 'Museo slab 100', sans-serif;
+  font-family: museo-slab, sans-serif;
   font-size: 18px;
   line-height: 28px;
+  font-weight: 300;
   text-align: center;
 }
 
@@ -1019,7 +1020,9 @@ a {
 }
 
 .text-block-14 {
+  font-family: museo-slab, sans-serif;
   font-size: 28px;
+  font-weight: 300;
 }
 
 .text-block-15 {
@@ -1190,9 +1193,10 @@ a {
 }
 
 .link-3 {
-  font-family: 'Museo slab 100', sans-serif;
+  font-family: museo-slab, sans-serif;
   color: #b4875e;
   font-size: 18px;
+  font-weight: 300;
   text-decoration: underline;
 }
 
@@ -1310,6 +1314,11 @@ a {
 }
 
 .link-14 {
+  color: #b4875e;
+  text-decoration: underline;
+}
+
+.link-15 {
   color: #b4875e;
   text-decoration: underline;
 }
@@ -2878,24 +2887,3 @@ a {
   }
 }
 
-@font-face {
-  font-family: 'Helveticaneue';
-  src: url('../fonts/HelveticaNeue-LightItalic.ttf') format('truetype');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Helveticaneue';
-  src: url('../fonts/HelveticaNeue-Light.otf') format('opentype');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'Museo slab 100';
-  src: url('../fonts/Museo_Slab_100.otf') format('opentype');
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
