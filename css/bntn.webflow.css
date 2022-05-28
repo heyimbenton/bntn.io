@@ -1542,11 +1542,6 @@ a {
     grid-template-columns: 1fr;
   }
 
-  .portrait-wrapper {
-    background-image: url('../images/marketbanner-2.jpg');
-    background-size: cover;
-  }
-
   .footer {
     display: -webkit-box;
     display: -webkit-flex;
